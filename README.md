@@ -12,3 +12,7 @@ Heute ist alles **nicht**  Befehl "Insert"
 
   
 # zu erledigen
+
+1. Diplomarbeit
+1. Scheißen gehen
+2. Nah 
