@@ -1,19 +1,9 @@
-# Repository für Laborübungen 2026/27
-
-## Überschrift 2
-
-Heute ist alles **nicht**  Befehl "Insert"
-
-## Überschrift 3
-
-
-* Eins
-* Zwei
-
-  
-# zu erledigen
-
-1. Diplomarbeit
-2.  gehen
-3. Nah
-4. 
+- 📓 [**Diplomarbeitstagebuch**](datagebuch/datb.md)
+- 📝 [**Schreibplan**](schreibplan/schreibplan.pdf)
+  - 📜 [**Diplomschrift**](diplomschrift/_Diplomarbeit.pdf)
+  - 📚 [**Leseprobe**](leseprobe/leseprobe.pdf)
+- 🗂️ [**Meilensteine**](https://github.com/20211185/da25_temperaturregler_StarkPhilipp/milestones)  
+  - 🎤 [**Präsentationen**](presentation/dapr.md)
+- 📑 [**Diplomarbeitsantrag**](dadb/daantrag.pdf)  
+  - 🏫 [**ABA-Portal**](https://aba.bildung.gv.at/) 
+- ✏️ [**Wie füge ich etwas hinzu?**](dadb/daedit.md)
