@@ -1,0 +1,33 @@
+# Diplomarbeitstagebuch
+
+## 2025
+* [KW 23](25kw23.md)
+* [KW 24](25kw24.md)
+* [KW 37](25kw37.md)
+* [KW 40](25kw40.md)
+* [KW 41](25kw41.md)
+* [KW 42](25kw42.md) 
+* [KW 43](25kw43.md)
+* [KW 44](25kw44.md)
+* [KW 45](25kw45.md)
+* [KW 46](25kw46.md)
+* [KW 47](25kw47.md)
+* [KW 48](25kw48.md)
+* [KW 49](25kw49.md)
+* [KW 50](25kw50.md)
+* [KW 51](25kw51.md) 
+* [KW 52](25kw52.md) 
+
+## 2026
+* [KW 01](26kw01.md)
+* [KW 02](26kw02.md)
+* [KW 03](26kw03.md)
+* [KW 04](26kw04.md)
+* [KW 05](26kw05.md)
+* [KW 06](26kw06.md)
+* [KW 08](26kw08.md)
+* [KW 09](26kw09.md)
+* [KW 10](26kw10.md)
+* [KW 11](26kw11.md)
+* [KW 12](26kw12.md)
+* [KW 12](26kw13.md) (aktuelle Woche)
