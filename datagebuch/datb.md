@@ -1,6 +1,6 @@
 # Diplomarbeitstagebuch
 
-## 2025
+## 2026
 * [KW 23](25kw23.md)
 * [KW 24](25kw24.md)
 * [KW 37](25kw37.md)
@@ -18,7 +18,7 @@
 * [KW 51](25kw51.md) 
 * [KW 52](25kw52.md) 
 
-## 2026
+## 2027
 * [KW 01](26kw01.md)
 * [KW 02](26kw02.md)
 * [KW 03](26kw03.md)
