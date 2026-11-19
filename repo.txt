@@ -1,0 +1,18 @@
+Auflistung der Ordnerpfade für Volume Windows 
+Volumeseriennummer : 4A0C-5D76
+C:.
+¦   meilensteine.md
+¦   README.md
+¦   repo.txt
+¦   
++---dadb
+¦       ABA_Rechtliche_Erklärung-3.pdf
+¦       daedit.md
+¦       
++---datagebuch
+¦       25kw46.md
+¦       datb.md
+¦       
++---presentation
+        dapr.md
+        
