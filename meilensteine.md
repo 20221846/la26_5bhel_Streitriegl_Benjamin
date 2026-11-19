@@ -1,11 +1,11 @@
 # Meilensteine
 
-| Meilenstein | Fällig am | Status laut Screenshot |
-|---|---:|---|
-| Steckbrettprototyp fertig, Rechercheergebnis Platinendesigns, begonnen mit Schematik und Routing | 20.11.2026 | 1 Issue geschlossen |
-| Eingereicht beim Platinenhersteller, Mikrocontroller liest Signale ein und gibt fixe Zustände aus | 18.12.2026 | Offen |
-| Test der Prototypplatine | 22.01.2027 | Offen |
-| Dokumentation fertiggestellt | 19.03.2027 | Offen |
-| Diplomarbeit eingereicht | 01.04.2027 | Offen |
-
-Hinweis: Ein weiterer Eintrag ist im Screenshot nur angeschnitten und daher nicht übernommen.
+| Meilenstein | Datum |
+|---|---:|
+| Recherche abgeschlossen, Projektumgebung eingerichtet | 03.10.2026 |
+| Benutzer-Grunddaten und erste Mockups fertig | 22.10.2026 |
+| Training- und Ernährungsprotokollierung funktionsfähig | 14.12.2026 |
+| Kalorien-/Makroziele, Trainingsplan und Erinnerungen | 27.01.2027 |
+| Smartwatch-Anbindung bzw. Konzept sowie Coach-Basis fertig | 28.02.2027 |
+| Gesamtprototyp fertiggestellt und getestet | 08.03.2027 |
+| Dokumentation abgeschlossen | 15.03.2027 |
